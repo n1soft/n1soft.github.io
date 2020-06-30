@@ -514,5 +514,29 @@
   {
     "p_name": "com.alibaba.dingtalk.global",
     "a_name": "DingTalk Lite"
+  },
+  {
+    "p_name": "video.like",
+    "a_name": "Likee"
+  },
+  {
+    "p_name": "video.like.lite",
+    "a_name": "Likee Lite"
+  },
+  {
+    "p_name": "com.ksmobile.cb",
+    "a_name": "CM Browser"
+  },
+  {
+    "p_name": "com.duapps.recorder",
+    "a_name": "DU Recorder"
+  },
+  {
+    "p_name": "vStudio.Android.Camera360",
+    "a_name": "Camera360"
+  },
+  {
+    "p_name": "com.yy.hiyo",
+    "a_name": "HAGO"
   }
 ]
