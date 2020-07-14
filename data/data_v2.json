@@ -542,5 +542,9 @@
   {
     "p_name": "com.ss.android.ugc.trill",
     "a_name": "TikTok"
+  },
+  {
+    "p_name": "com.pinguo.camera360lite",
+    "a_name": "Camera 360 Lite"
   }
 ]
